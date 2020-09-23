@@ -1,4 +1,4 @@
-package com.wojdlu.demo;
+package com.wojdlu.covidapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
